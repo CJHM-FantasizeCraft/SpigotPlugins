@@ -2,3 +2,6 @@ name: SpigotPlugins
 version: '${project.version}'
 main: cjhm.spigotplugins.SpigotPlugins
 api-version: 1.19
+commands:
+  spigotplugins:
+    description: Get info of top 10 SpigotMC plugins.
