@@ -1,0 +1,4 @@
+name: SpigotPlugins
+version: '${project.version}'
+main: cjhm.spigotplugins.SpigotPlugins
+api-version: 1.19
