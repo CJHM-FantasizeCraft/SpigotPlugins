@@ -13,6 +13,7 @@ import java.io.IOException;
 public class sp implements CommandExecutor {
     private final String spigotMCUrl = "https://www.spigotmc.org/resources/";
 
+
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         if (command.getName().equalsIgnoreCase("spigotplugins")) {
